@@ -88,12 +88,12 @@ li {
 
 .firstRow {
     width: 95%;
+    display: flex;
 }
 
 .firstRowNav {
     width: 75%;
     color: gray;
-    display: inline-block;
 }
 
 .firstRowPicture {
