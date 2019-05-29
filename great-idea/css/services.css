@@ -31,8 +31,8 @@ footer, header, hgroup, menu, nav, section {
 body {
     line-height: 1;
 }
-ol {
-    list-style: none;
+ol ul{
+    list-style-type: none;
 }
 blockquote, q {
     quotes: none;
@@ -79,6 +79,8 @@ a {
 
 ul {
     display: flex;
+    list-style-type: none;
+
 
 }
 
@@ -89,7 +91,7 @@ li {
 button {
 
     padding: 2% 10% 2% 10%;
-    margin: 5%;
+    margin-top: 4%;
     text-align: center;
 
 }
@@ -104,6 +106,7 @@ footer {
 .firstRow {
     width: 99%;
     display: flex;
+    list-style-type: none;
 }
 
 
@@ -111,6 +114,7 @@ footer {
 .firstRowNav {
     width: 75%;
     color: gray;
+    list-style-type: none;
 
 }
 
@@ -130,6 +134,9 @@ footer {
     width: 100%;
     margin: auto;
 
+}
+.services-header-img {
+    width: 100%;
 }
 
 .thirdRow {
@@ -228,6 +235,7 @@ footer {
 .companyFacts {
     flex-direction: column;
     margin-left: 3%;
+    list-style-type: disc;
 }
 
 .footerColumn2 {
