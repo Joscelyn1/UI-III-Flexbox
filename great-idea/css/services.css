@@ -109,3 +109,48 @@ li {
     margin-top: auto;
 
 }
+
+.secondRow {
+    display: flex;
+    width: 100%;
+    margin: auto;
+
+}
+
+.thirdRow {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.middleSection {
+
+
+}
+.middleSectionRow1 {
+    display: flex;
+    border: 2px solid black;
+    background-color: lightgray;
+
+}
+
+.middleSectionRow1Column1 {
+    flex-direction: column;
+}
+
+.middleSectionRow1Column2 {
+    flex-direction: column;
+}
+
+.middleSectionRow2 {
+    display: flex;
+    border: 2px solid black;
+    background-color: lightgray;
+
+}
+.middleSectionRow3 {
+    display: flex;
+    border: 2px solid black;
+    background-color: lightgray;
+
+}
