@@ -128,10 +128,18 @@ button {
 .thirdRow {
     display: flex;
     flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
 
 }
 
 .middleSection {
+
+    border-top: 2px solid gray;
+    border-bottom: 2px solid black;
+    padding-top: 2%;
+    padding-bottom: 2%;
 
 
 
