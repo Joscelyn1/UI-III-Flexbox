@@ -221,6 +221,7 @@ footer {
 .footerColumn1 {
     flex-direction: column;
     display: flex;
+    margin-right: 2%;
 
 }
 
