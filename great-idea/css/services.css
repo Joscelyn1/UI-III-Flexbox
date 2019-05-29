@@ -139,6 +139,7 @@ li {
     border: 2px solid black;
     background-color: lightgray;
     padding: 2%;
+    margin: 2%;
 }
 
 .middleSectionRow1Column2 {
@@ -146,13 +147,13 @@ li {
     border: 2px solid black;
     background-color: lightgray;
     padding: 2%;
+    margin: 2%;
 }
 
 .middleSectionRow2 {
     display: flex;
-    border: 2px solid black;
-    background-color: lightgray;
     justify-content: space-around;
+
 
 }
 
@@ -161,6 +162,7 @@ li {
     border: 2px solid black;
     background-color: lightgray;
     padding: 2%;
+    margin: 2%;
 }
 
 .middleSectionRow2Column2 {
@@ -168,11 +170,10 @@ li {
     border: 2px solid black;
     background-color: lightgray;
     padding: 2%;
+    margin: 2%;
 }
 .middleSectionRow3 {
     display: flex;
-    border: 2px solid black;
-    background-color: lightgray;
     justify-content: space-around;
 
 }
@@ -182,6 +183,7 @@ li {
     border: 2px solid black;
     background-color: lightgray;
     padding: 2%;
+    margin: 2%;
 
 }
 .middleSectionRow3Column2 {
@@ -189,5 +191,6 @@ li {
     border: 2px solid black;
     background-color: lightgray;
     padding: 2%;
+    margin: 2%;
 
 }
