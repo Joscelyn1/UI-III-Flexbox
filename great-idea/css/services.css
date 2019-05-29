@@ -87,11 +87,11 @@ li {
 }
 
 button {
-    width: 30%;
-    padding-right: 15%;
-    padding-left: 15%;
+
+    padding: 2% 10% 2% 10%;
     margin: 5%;
     text-align: center;
+
 }
 
 footer {
