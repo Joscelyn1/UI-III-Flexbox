@@ -64,3 +64,48 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body {
+    width: 90%;
+    margin: auto;
+}
+
+
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding: 4%;
+}
+
+
+.firstRow {
+    width: 99%;
+    display: flex;
+}
+
+
+
+.firstRowNav {
+    width: 75%;
+    color: gray;
+
+}
+
+.firstRowColumn2 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.firstRowPicture {
+    margin-bottom: auto;
+    margin-top: auto;
+
+}
