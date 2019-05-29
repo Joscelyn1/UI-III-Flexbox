@@ -221,10 +221,12 @@ footer {
 .footerColumn1 {
     flex-direction: column;
     display: flex;
+
 }
 
 .companyFacts {
     flex-direction: column;
+    margin-left: 3%;
 }
 
 .footerColumn2 {
